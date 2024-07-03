@@ -1,6 +1,6 @@
 # Shell-Scripting-Practicals
 
-This repository contains ten practical exercises & more designed to help you master shell scripting and Linux command usage. Each practical covers a different aspect of shell scripting, from basic commands to advanced process management techniques.Ideal for computer science students and professionals looking to deepen their knowledge of shell scripting and Linux-based systems.
+This repository contains ten practical exercises & more, designed to help you master shell scripting and Linux command usage. Each practical covers a different aspect of shell scripting, from basic commands to advanced process management techniques. Ideal for computer science students and professionals looking to deepen their knowledge of shell scripting and Linux-based systems.
 
 ## Practical Exercises
 
@@ -18,28 +18,15 @@ This repository contains ten practical exercises & more designed to help you mas
    - Checking if an entered string is a palindrome.
    - Printing elements of an array.
 
-4. **Process Creation in C**
-   - Writing a C program to create a child process.
+4. **Command Line Argument Handling**
+   - Finding the biggest number from three given numbers.
 
-5. **Command Line Argument Handling**
-   - Finding the biggest number from three given numbers supplied as command line arguments.
-
-6. **Printing Patterns**
+5. **Printing Patterns**
    - Writing a shell script to print a pyramid.
 
-7. **File Operations and Number Printing**
+6. **File Operations and Number Printing**
    - Checking if a given file exists.
    - Printing even numbers up to a user-specified number.
-
-8. **Advanced Process Creation in C**
-   - Writing a program for process creation using C.
-
-9. **Scheduling Algorithms**
-   - Implementing First-Come, First-Served (FCFS) scheduling algorithm.
-   - Implementing Round Robin scheduling algorithm.
-
-10. **Banker's Algorithm**
-    - Implementing the Banker's algorithm for deadlock avoidance.
 
 ## How to Use
 
