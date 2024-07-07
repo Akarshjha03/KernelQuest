@@ -1,5 +1,12 @@
 # Shell-Scripting-Practicals
 
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=bash" />
+</a>
+
+</div>
+
 This repository contains ten practical exercises & more, designed to help you master shell scripting and Linux command usage. Each practical covers a different aspect of shell scripting, from basic commands to advanced process management techniques. Ideal for computer science students and professionals looking to deepen their knowledge of shell scripting and Linux-based systems.
 
 ## Practical Exercises
