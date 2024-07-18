@@ -58,7 +58,6 @@ This repository contains ten practical exercises & more, designed to help you ma
 
 - A Linux-based operating system or a Linux virtual environment.
 - Basic knowledge of Linux commands and shell scripting.
-- A C compiler (e.g., GCC) for C programs.
 
 ## Contributing
 
