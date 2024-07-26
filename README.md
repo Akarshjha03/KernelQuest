@@ -6,7 +6,9 @@ This repository contains ten practical exercises & more, designed to help you ma
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=linux,bash,git,powershell,windows,apple" />
+<img src="https://skillicons.dev/icons?i=bash,git,powershell" /><br>
+<img src="https://skillicons.dev/icons?i=linux,windows" /><br>
+<img src="https://skillicons.dev/icons?i=apple" />
 </a>
 </div>
 
