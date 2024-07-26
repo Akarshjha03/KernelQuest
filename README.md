@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=bash" />
+<img src="https://skillicons.dev/icons?i=bash,powershell" />
 </a>
 </div>
 
